@@ -4,3 +4,8 @@ The rules for tranlating english into pig latin can be found here:
 https://web.ics.purdue.edu/~morelanj/RAO/prepare2.html
 
 Write tests using jest to test all interesting cases.
+
+## Getting Started
+* clone this repo
+* run `npm install`
+* run `npm test` to run tests
