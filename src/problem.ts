@@ -1,1 +1,1 @@
-export function translateToPigLatin() {}
+export function translateToPigLatin(sentence: string) {}
